@@ -58,6 +58,7 @@ on:
           - ReflexEncodeV2.0
           - RP2040AdvancedBreakoutBoard
           - RP2040AdvancedBreakoutBoardUSBPassthrough
+          - robflop
           - RP2040MiniBreakoutBoard
           - RP2040MiniBreakoutBoardUSBPassthrough
           - SeeedXIAORP2040
