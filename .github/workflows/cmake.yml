@@ -2,7 +2,7 @@ name: CMake
 
 on:
   push:
-    branches: ["main", "test"]
+    branches: ["main", "v0.7.12-customlayout"]
   pull_request:
     branches: ["main"]
   #  pull_request_target:
